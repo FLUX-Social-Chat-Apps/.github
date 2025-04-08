@@ -27,10 +27,10 @@ FLUX is a Web3-based chat platform integrated with the Solana blockchain, enabli
 
 ## 🔧 Tech Stack
 - **Solana** – Main blockchain for transactions and smart contracts.
-- **AI Agents** – LLM-powered agents for automation and insights.
+- **SEND AI Agents** – LLM-powered agents for automation and insights.
 - **Real-Time Chat** – Using WebSocket or decentralized PubSub protocols.
-- **Prediction Market Smart Contracts** – To manage bets and reward distribution.
-- **Frontend** – Built with React, TailwindCSS, Wagmi, and Viem.
+- **Prediction Market Smart Contracts SVM** – To manage bets and reward distribution.
+- **Frontend** – Built with Next JS Typescript.
 
 ---
 
